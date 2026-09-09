@@ -13,7 +13,7 @@ El flujo de trabajo realiza el control de calidad inicial, filtrado por longitud
 
 ##  Diagrama del Pipeline
 
-![Galaxy Workflow Preview](img/workflow_preview.png)
+![Galaxy Workflow Preview](download.png)
 
 ---
 
